@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "Mayenne Sans Regular";
+    src: url("./assets/Mayenne_Sans-Regular_web.woff2") format("woff2"); 
+  }
+
+
+
+.title{
+  font-family:"Mayenne Sans Regular";
+  font-size: 100px;
+  line-height: 0cm;
+}
+
+.drop:hover{
+    opacity:0;
+}
+
+  .paragraph{
+    font-family:"Mayenne Sans Regular";
+    font-size: 100px;
+    color: plum;
+    line-height: 20mm;
+    text-indent: 1cm;
+    letter-spacing: 5cm;
+    
+  }
+
+  .horizontal{
+    font-family:"Mayenne Sans Regular";
+    font-size: 100px;
+    color: plum;
+    text-indent: 1cm;
+    letter-spacing:  2.6cm;
+  }
+
+  .larger:hover{
+    color: green;
+    font-size: 150px;
+    
+
+  }
+
+.big{
+  font-family:"Mayenne Sans Regular";
+    font-size: 50px;
+    color:lightblue;
+    transform: rotate(90deg);
+    float: right;
+}
+  
